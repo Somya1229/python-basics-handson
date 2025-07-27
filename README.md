@@ -38,7 +38,7 @@ The code covers **step-by-step Python fundamentals**, including:
 
 3. Run the Python file:
    ```bash
-   python main.py
+   python python_practice.py
    ```
 
 > Each concept is clearly separated by comments and can be run independently.
